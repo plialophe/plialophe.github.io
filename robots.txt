@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://plialophe.github.io/sitemap.html.gz
+Sitemap: https://plialophe.github.io/app/sitemap.html.gz
+Sitemap: https://plialophe.github.io/assets/sitemap.html.gz
+Sitemap: https://plialophe.github.io/css/sitemap.html.gz
+Sitemap: https://plialophe.github.io/data/sitemap.html.gz
+Sitemap: https://plialophe.github.io/includes/sitemap.html.gz
+Sitemap: https://plialophe.github.io/item/sitemap.html.gz
+Sitemap: https://plialophe.github.io/src/sitemap.html.gz
